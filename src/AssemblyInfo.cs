@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Timm Friebe")]
 [assembly: AssemblyProduct("inotify-win")]
-[assembly: AssemblyCopyright("Copyright © 2012 - 2023 Timm Friebe")]
+[assembly: AssemblyCopyright("Copyright © 2012 - 2026 Timm Friebe")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: AssemblyVersion("1.10.0.0")]
